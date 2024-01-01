@@ -219,4 +219,4 @@ Explanation:
 This diagram outlines a typical CI/CD pipeline for deploying an application on an Amazon EKS cluster. GitHub Actions automates the pipeline, Docker containers enable portability, and Terraform manages the infrastructure as code. The pipeline can be triggered on code commits, ensuring automatic deployment to the EKS cluster whenever changes are made to the repository.
 
 
-
+(ChatGPT 3.5, 2023)
